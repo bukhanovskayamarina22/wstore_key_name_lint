@@ -1,4 +1,4 @@
-# Example Linter Package
+# Wstore Key Name Lint Package
 
 This package provides a custom linter for Dart applications using the `wstore` package for state management. Its primary function is to ensure that the `keyName` of computed getters matches the name of the getter itself.
 
